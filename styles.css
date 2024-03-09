@@ -23,10 +23,8 @@ body {
 }
 
 .field_set {
-  border-color: black;
-  border-style: solid;
   border-radius: 15px;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: black;
 }
 
 .field_set > div {
@@ -34,6 +32,7 @@ body {
 }
 
 .ing_list > fieldset > div {
+  color: #ffe56b;
   font-family: "Pixelify Sans";
   font-size: 75px;
 }
