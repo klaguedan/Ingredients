@@ -8,13 +8,18 @@ h1 {
 
 h2 {
   font-family: "Pixelify Sans";
-  font-size: 40px;
+  font-size: 60px;
   letter-spacing: 2px;
   margin-bottom: 0;
+  text-align: center;
 }
 
 body {
   background-color:#FFD300;
+}
+
+.ing_list {
+  margin: 10px;
 }
 
 .field_set {
@@ -25,12 +30,7 @@ body {
 }
 
 .field_set > div {
-  margin-bottom: 100px;
-}
-
-.ing_list {
-  font-family: "Pixelfy Sans";
-  font-size: 40px;
+  margin-bottom: 50px;
 }
 
 .ing_list > fieldset > div {
