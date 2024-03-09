@@ -24,6 +24,8 @@ body {
 
 .field_set {
   border-radius: 15px;
+  border-style: solid;
+  border-color:#FFD300;
   background-color: black;
 }
 
