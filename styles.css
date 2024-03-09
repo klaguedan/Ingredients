@@ -20,13 +20,20 @@ body {
 .field_set {
   border-color: black;
   border-style: solid;
-  border-radius: 5px;
+  border-radius: 15px;
   background-color: rgba(255, 255, 255, 0.75);
 }
 
+.field_set > div {
+  margin-bottom: 100px;
+}
+
 .ing_list {
-  margin-left: 100px;
-  margin-right: 100px;
+  font-family: "Pixelfy Sans";
+  font-size: 40px;
+}
+
+.ing_list > fieldset > div {
   font-family: "Pixelify Sans";
-  font-size: 30px;
+  font-size: 75px;
 }
